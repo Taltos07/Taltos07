@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Taltos07
 - 👀 I’m interested in learning web app dev and secure web app dev.
 - 🌱 I’m currently learning the above.
-- 📫 How to reach me sathyanarayanantinku@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love learning
 
